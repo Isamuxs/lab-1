@@ -16,7 +16,7 @@ p{
             #second{/*друга таблиця*/
                 background-color: rgb(210, 243, 0);
                 border:solid 1px black;
-                margin-bottom: 3px;
+                margin-bottom: 3px; /**/
             }
 table{
     font-family: "Kanit";
