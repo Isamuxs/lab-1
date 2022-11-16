@@ -95,8 +95,10 @@ h1{
         }
 .title span{
     border:solid 2px yellow;
-    background-color:aqua;
+    background-color:rgb(255, 119, 0);
+    
 }
+
 .title{
     position: relative;
     left: 1px;
