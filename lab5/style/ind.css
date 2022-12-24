@@ -1,0 +1,113 @@
+#yupi{
+    line-height: 125%;
+  }
+p{
+    text-align: center;
+}
+
+a{
+color:#09eded;
+text-decoration-line:none;
+}
+a:visited{
+color:#94000a;
+}
+
+#au{
+font-size:24px;
+text-align: center;
+}
+  #yupi{
+    line-height: 120%;
+  }
+ body{
+    background-color: black;
+    color:white;
+   }
+a{
+color:#09eded;
+}
+a:visited{
+color:#94000a;
+}
+.tt{
+    border:solid 1px grey;
+    margin:1px;
+    width: 150px;
+    padding:0px;
+   
+}
+
+
+
+@media (min-width: 993px){
+div{
+    display: inline-flex;
+    
+    margin-left: 3px;
+    padding: 3px;
+    display: flex;
+    align-content: center;
+    align-self: auto;
+    
+}
+	
+}
+
+@media (min-width: 769px) and (max-width: 992px){
+	
+	div{
+        flex-direction: column;
+        display: grid;
+        grid-template-columns: repeat(2, 2fr);
+        grid-auto-rows: 70;
+        
+    }
+	}
+
+
+@media (max-width: 768px){
+	
+	.col-sm-1, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8,
+	.col-sm-9, .col-sm-10, .col-sm-11, .col-sm-12 {
+	float: left;
+	}
+	.col-sm-1 {
+	width: 8.33%;
+	}
+	.col-sm-2 {
+	width: 16.66%;
+	}
+	.col-sm-3 {
+	width: 25%;
+	}
+	.col-sm-4 {
+	width: 33.33%;
+
+	}
+	.col-sm-5 {
+	width: 41.66%;
+	}
+	.col-sm-6 {
+	width: 50%;
+	}
+	.col-sm-7 {
+	width: 58.33%;
+	}
+	.col-sm-8 {
+	width: 66.66%;
+	}
+	.col-sm-9 {
+	width: 75%;
+	}
+	.col-sm-10 {
+	width: 83.33%;
+	}
+	.col-sm-11 {
+	width: 91.66%;
+	}
+	.col-sm-12 {
+	width: 100%;
+	}
+	
+}

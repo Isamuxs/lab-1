@@ -1,0 +1,210 @@
+
+  h1{
+    font-size:22px;
+    text-align: center;
+  }
+
+      #back{
+        font-style:italic;
+      }
+
+      #zmi{
+        font-weight: bold;
+        text-decoration-line:none;
+        border:solid 1.5px black;
+      }
+      #bakii{
+        font-style: italic;
+        text-decoration: none;
+      }
+
+   
+   a{
+    text-decoration:none ;
+    color:#09eded;
+    }
+  
+
+  #ser{
+    line-height:163%;
+  color:blue;
+  padding:px,14;
+}
+      #ser:visited{
+        color:#94000a;
+      }
+      #zm{
+        text-align: center;
+      }
+ 
+
+
+      #buse {
+        text-decoration:none;
+        border:solid 2.3px black;
+        background:#ed0799;
+      }
+
+            #kids{
+              text-decoration:none;
+              border:solid 2.3px black;
+              background:#ed0799;
+            }
+
+       #schools{
+        text-decoration:none;
+        border:solid 2.3px black;
+        background:#ed0799;
+        }
+
+#un_sc{
+  text-decoration:none;
+  border:solid 2.3px black;
+  background:#ed0799;
+}
+
+      #univ{
+        text-decoration:none;
+        border:solid 2.3px black;
+        background:#ed0799;
+      }
+
+#buse:hover {
+        text-decoration:none;
+        border:solid 2.3px black;
+        background:magenta;
+      }
+
+      #kids:hover{
+              text-decoration:none;
+              border:solid 2.3px black;
+              background:magenta;
+            }
+
+       #schools:hover{
+        text-decoration:none;
+        border:solid 2.3px black;
+        background:magenta;
+        }
+
+#un_sc:hover{
+  text-decoration:none;
+  border:solid 2.3px black;
+  background:magenta;
+}
+      #univ:hover{
+        text-decoration:none;
+        border:solid 2.3px black;
+        background:magenta;
+      }
+
+#buse:active {
+        color:magenta; 
+        text-decoration:none;
+        border:solid 2.3px black;
+        background:yellow;
+}
+
+#kids:active{
+              color:magenta;
+              text-decoration:none;
+              border:solid 2.3px black;
+              background:yellow;
+}
+
+       #schools:active{
+        color:magenta;
+        text-decoration:none;
+        border:solid 2.3px black;
+        background:yellow;
+        }
+
+#un_sc:active{
+  color:magenta;
+  text-decoration:none;
+  border:solid 2.3px black;
+  background:yellow;
+}
+
+      #univ:active{
+        color:magenta;
+        text-decoration:none;
+        border:solid 2.3px black;
+        background:yellow;
+      }
+
+h3{
+  font-size:120%
+}
+
+#basein{
+  font-size:120%;
+  border:solid 1.7px black;
+  background:#0cd3da;
+
+}
+
+    #kid{
+      font-size:120%;
+      border:solid 1.7px black;
+      background:pink;
+
+    }
+
+      #school{
+        font-size:120%;
+        border:solid 1.7px black;
+        background:grey;
+
+      }
+
+      #und-school{
+        font-size:120%;
+        border:solid 1.7px black;
+        background:magenta;
+
+      }
+
+    #uni{
+      font-size:120%;
+      border:solid 1.7px black;
+      background:darkblue;
+      color:rgb(202, 134, 8);
+
+    }
+ h2{
+ font-size:140%;
+ }
+ .rum{
+    border:solid 1px black;
+    margin-bottom: 3px;
+   max-width: 700px;
+    
+ }
+ .rum1{
+    background:#0cd3da;
+ }
+ .rum2{
+    background:pink;
+ }
+ .rum3{
+    background:grey;
+ }
+ .rum4{
+    background:magenta;
+ }
+ .rum5{
+    background:darkblue;
+ }
+
+ @media (min-width: 993px){
+    #id{        
+        flex-direction: column;
+        display: grid;
+        grid-template-columns: repeat(2, 2fr);
+        
+    }
+     
+}
+
+    

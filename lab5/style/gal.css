@@ -1,0 +1,56 @@
+img{
+    display: block;
+    margin: auto;
+  }
+    #ku{
+      font-size:20px;
+      
+    }
+    #bakii{
+      font-style: italic;
+      text-decoration: none;
+    }
+    .cen{
+      text-align: center;
+    }
+    h3{
+      text-align: center;
+    }
+   #ffe{
+    font-size: 130%;
+   }
+   a{
+    text-decoration-line:none;
+    color:#09eded;
+    }
+
+
+   body{
+    background-color: black;
+    color:white;
+   }
+
+
+
+
+
+#kp{
+font-size:70%;
+}
+
+
+@media (min-width: 993px){
+    .ims{
+        display: inline-flex;
+    align-content: center;
+    align-self: stretch;
+   
+}
+h3{
+    text-align: center;
+}
+.block{
+    max-width: 33.33%;
+   
+}
+    }
