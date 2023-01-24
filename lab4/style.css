@@ -1,28 +1,4 @@
-@media(min-width:993px){
-    .block_1{
-        
-        display: inline-block;
-        width:  auto;
-        max-width: 32%;
-        margin-left: 8px;
-    
-    }
-        .block_2{
-            
-            display: inline-block;
-            width:  auto;
-            max-width: 32%;
-            margin-left: 8px;
-        
-        }
-        .block_3{
-            
-            display: inline-block;
-            width:  auto; 
-            max-width: 32%;
-        
-        }
-}
+
 
 @media(min-width: 768px) and (max-width: 992px){
 
@@ -78,7 +54,31 @@
 h1{
     text-align: center;
 }
-
+@media(min-width:993px){
+    .block_1{
+        
+        display: inline-block;
+        width:  auto;
+        max-width: 32%;
+        margin-left: 8px;
+    
+    }
+        .block_2{
+            
+            display: inline-block;
+            width:  auto;
+            max-width: 32%;
+            margin-left: 8px;
+        
+        }
+        .block_3{
+            
+            display: inline-block;
+            width:  auto; 
+            max-width: 32%;
+        
+        }
+}
 .block_1{
     border:solid black;
     background-color: aqua;
