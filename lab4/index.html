@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <title>Pixel Hunt</title>
+    <style>
+        body { font-family: sans-serif; text-align: center; }
+        #gameArea {
+            width: 400px;
+            height: 400px;
+            border: 2px solid black;
+            margin: 20px auto;
+            position: relative;
+        }
+        .pixel {
+            width: 30px;
+            height: 30px;
+            position: absolute;
+            cursor: pointer;
+            border-radius: 50%;
+        }
+        .target { background-color: red; }
+        .fake { background-color: gray; }
+    </style>
+</head>
+<body>
+    <h1>Pixel Hunt</h1>
+    <div>
+        <label>Рівень складності:</label>
+        <select id="difficulty">
+            <option value="easy">Встигнеш і поспати!</option>
+            <option value="medium">Ну думаю піде</option>
+            <option value="hard">Я не рекомендую</option>
+        </select>
+    </div>
+    <button id="startBtn">Старт</button>
+    <p>Кілл стрік: <span id="score">0</span></p>
+    <div id="gameArea"></div>
+
+    <script src="script.js"></script>
+</body>
+</html>
