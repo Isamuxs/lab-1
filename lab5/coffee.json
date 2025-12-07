@@ -1,0 +1,10 @@
+{
+      "title": "Кава та аксесуари",
+      "notes": "Кава, чашки, френч-преси.",
+      "items": [
+        { "id": 1, "name": "Зернова кава 250г", "shortname": "c1", "description": "Ароматна кава середнього обсмаження.", "price": "UAH 180", "image": "https://place-hold.it/200x200?text=Coffee" },
+        { "id": 2, "name": "Френч-прес", "shortname": "c2", "description": "Класичний френч-прес на 1 л.", "price": "UAH 450", "image": "https://place-hold.it/200x200?text=Press" },
+        { "id": 3, "name": "Подарунковий набір", "shortname": "c3", "description": "Набір для шанувальників кави.", "price": "UAH 650", "image": "https://place-hold.it/200x200?text=Set" },
+        { "id": 4, "name": "Млинок для кави", "shortname": "c4", "description": "Електричний млинок ручного типу.", "price": "UAH 899", "image": "https://place-hold.it/200x200?text=Grinder" }
+      ]
+    }

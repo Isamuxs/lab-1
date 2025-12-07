@@ -1,0 +1,10 @@
+{
+      "title": "Електроніка — наш вибір",
+      "notes": "Гаджети та аксесуари.",
+      "items": [
+        { "id": 1, "name": "Навушники Pro", "shortname": "hp1", "description": "Безпровідні навушники з шумозаглушенням.", "price": "€79.99", "image": "https://place-hold.it/300x200?text=Headphones" },
+        { "id": 2, "name": "Портативна колонка", "shortname": "sp1", "description": "Компактна колонка для прогулянок.", "price": "€49.00", "image": "https://place-hold.it/300x200?text=Speaker" },
+        { "id": 3, "name": "Фітнес-браслет", "shortname": "fb1", "description": "Монітор пульсу та кроків.", "price": "€29.50", "image": "https://place-hold.it/300x200?text=Band" },
+        { "id": 4, "name": "Павербанк 10000mAh", "shortname": "pb1", "description": "Швидка зарядка для ваших пристроїв.", "price": "€24.00", "image": "https://place-hold.it/300x200?text=Powerbank" }
+      ]
+    }

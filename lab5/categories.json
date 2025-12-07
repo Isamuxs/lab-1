@@ -1,0 +1,5 @@
+[
+      { "id": 1, "name": "Електроніка", "shortname": "electronics", "notes": "Приклади товарів: навушники, колонки." },
+      { "id": 2, "name": "Книги", "shortname": "books", "notes": "Lorem ipsum dolor sit amet." },
+      { "id": 3, "name": "Кава та аксесуари", "shortname": "coffee", "notes": "Короткі примітки про категорію." }
+    ]

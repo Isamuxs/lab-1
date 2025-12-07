@@ -1,0 +1,10 @@
+{
+      "title": "Книги",
+      "notes": "Підбірка книг різних жанрів.",
+      "items": [
+        { "id": 1, "name": "Роман: Пригоди", "shortname": "b1", "description": "Опис роману Lorem ipsum...", "price": "UAH 199", "image": "https://place-hold.it/200x200?text=Book+1" },
+        { "id": 2, "name": "Підручник C++", "shortname": "b2", "description": "Короткий опис підручника.", "price": "UAH 350", "image": "https://place-hold.it/200x200?text=C%2B%2B" },
+        { "id": 3, "name": "Книга з UX", "shortname": "b3", "description": "Про дизайн інтерфейсів.", "price": "UAH 240", "image": "https://place-hold.it/200x200?text=UX" },
+        { "id": 4, "name": "Комікс", "shortname": "b4", "description": "Легка пригодницька історія.", "price": "UAH 120", "image": "https://place-hold.it/200x200?text=Comic" }
+      ]
+    }
